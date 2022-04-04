@@ -1,0 +1,40 @@
+
+      div{
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      body{
+        background-image: url("https://media.istockphoto.com/vectors/abstract-blurred-colorful-background-vector-id1186790852?k=20&m=1186790852&s=612x612&w=0&h=Z33vXK5dRcFobERKrJmmk82N6Se5klqljBlvuJsdFAE=");
+      }
+
+      img{
+        width:400px;
+      }
+      h1 {
+        color:chartreuse;
+      }
+
+      #contenedor{
+          display:flex;
+          justify-content:center;
+          align-items:center;
+      }
+
+
+      #thirdDiv {
+        height: 600px;
+        width: 500px;
+        background: red;
+        padding:50px;
+        border:5px solid black;
+      }
+
+      .divClass {
+
+      }
+
+      #spanId{
+        font-size: 18px;
+        margin: 50px;
+      }
